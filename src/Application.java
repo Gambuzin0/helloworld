@@ -1,10 +1,6 @@
 public class Application {
-    public static void main(String args[]) {
-
-        int i = 10;
-        while(i != 0){
-            System.out.println("Hello World");
-            i--;
-        }
+    public static void main(String[] args) {
+        System.out.println("Thank you for using the Hello World
+                App");
     }
 }
